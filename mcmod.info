@@ -1,0 +1,14 @@
+[
+{
+  "modid": "Main",
+  "name": "Main",
+  "description": "The Description, can be anything!",
+  "url": "http://www.pokemc.com/",
+  "updateUrl": "http://www.pokemc.com/",
+  "authorList": ["YourName"],
+  "credits": "YourName",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": ["pixelmon"]
+}
+]
