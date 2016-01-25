@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<classpath>
-	<classpathentry kind="src" path="src/api/java"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
-	<classpathentry kind="lib" path="D:/Eclipse Dependencies/forgeSrc-1.8-11.14.4.1577-PROJECT(SpongeForge).jar" sourcepath="D:/eclipse workplace/SpongeForge/.gradle/minecraft/forgeSrc-1.8-11.14.4.1577-PROJECT(SpongeForge)-sources.jar"/>
-	<classpathentry kind="lib" path="D:/Eclipse Dependencies/Pixelmon-1.8-4.1.4-universal.jar"/>
-	<classpathentry kind="output" path="bin"/>
-</classpath>
